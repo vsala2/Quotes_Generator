@@ -36,7 +36,6 @@ const quotes = [{
     person: `Virginia Woolf`
 },];
 
-
 btn.addEventListener('click', function(){
 
     let random = Math.floor(Math.random() * quotes.length);
